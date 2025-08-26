@@ -727,7 +727,13 @@ button {
   width: 100%; 
   margin-top: 20px;
 }
+.spin-btn {
+  background-color: #C62828; 
+}
 
+.spin-btn:hover {
+  background-color: #B71C1C; 
+}
 
 @keyframes fadeInPopup {
   0% {
